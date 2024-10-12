@@ -1,0 +1,16 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    background-image: url('https://i.pinimg.com/564x/f9/04/f8/f904f8a1fedff5f6b92d5b7da7b03575.jpg');
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+  }
+  
